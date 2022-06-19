@@ -14,6 +14,6 @@ modules:
       - tar -xjpvf muehle.tbz -C /
     sources:
       - type: file
-        url: http://www.kubux.net/muehle-releases/muehle-2022.06.15-e76f.tbz
+        url: http://www.kubux.net/muehle-releases/muehle-2022-06-19-f10d.tbz
         dest-filename: muehle.tbz
-        sha256: 9bb136e26f01ed9bd9959e9c35179a9dd583ca2ec4eb5097d6099dc10c35d6b8
+        sha256: 2bd1d520be1616ceb35e14389f7c7999037150cd31996b56cefbfa2e3313bff2

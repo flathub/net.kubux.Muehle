@@ -1,6 +1,6 @@
 app-id: net.kubux.Muehle
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 command: muehle
 finish-args:
@@ -14,6 +14,6 @@ modules:
       - tar -xjpvf muehle.tbz -C /
     sources:
       - type: file
-        url: https://muehle.kubux.net/muehle-releases/muehle-2023-09-09-3892.tbz
+        url: https://muehle.kubux.net/muehle-releases/muehle-2025-01-03-ce08.tbz
         dest-filename: muehle.tbz
-        sha256: d86158aec651a102a1c3ce9a8b8268c31dff97c7295a3f0990a7968379ca1bd5
+        sha256: 2b01ed5a8bf57df3ee9fb6c760db611864e5a986b5250abecf2550231f1c8b79
